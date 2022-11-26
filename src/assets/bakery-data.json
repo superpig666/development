@@ -1,0 +1,136 @@
+[
+  {
+    "name": "Chocolate Chip Cookies",
+    "description": "Four classic chocolate chip cookies",
+    "price": 7.99,
+    "calories": 1382,
+    "type": "pastry",
+    "flavor":"sweet",
+    "image": "images/anika.png"
+  },
+  {
+    "name": "Matcha Mille Crepe Cake",
+    "description": "Layers of matcha crepe and matcha cream filling, topped with strawberries",
+    "price": 4.99,
+    "calories": 97,
+    "type": "pastry",
+    "flavor":"sweet",
+    "image": "images/aubrey.png"
+  },
+  {
+    "name": "Egg Custard Bun",
+    "description": "A fluffy steamed bun with a savory egg filling",
+    "price": 2.99,
+    "calories": 110,
+    "type": "pastry",
+    "flavor":"sweet",
+    "image": "images/connie.png"
+  },
+  {
+    "name": "Steamed Taro Buns",
+    "description": "Two soft steamed buns filled with gooey purple taro filling",
+    "price": 5.99,
+    "calories": 110,
+    "type": "cake",
+    "flavor":"salty",
+    "image": "images/dylan.png"
+  },
+  {
+    "name": "Chocolate Fudge Brownie",
+    "description": "A rich fudge brownie drizzled with chocolate ganache",
+    "price": 3.99,
+    "calories": 120,
+    "type": "cake",
+    "flavor":"salty",
+    "image": "images/isaac.png"
+  },
+  {
+    "name": "Macarons",
+    "description": "A box of three macarons in assorted flavors",
+    "price": 4.99,
+    "calories": 1000,
+    "type": "pastry",
+    "flavor":"salty",
+    "image": "images/jeff.png"
+  },
+  {
+    "name": "Multigrain Bread",
+    "description": "A loaf of fresh-baked multigrain bread",
+    "price": 4.99,
+    "calories": 800,
+    "type": "bread",
+    "flavor":"sweet",
+    "image": "images/jenny.png"
+  },
+  {
+    "name": "Croissant",
+    "description": "A classic butter croissant with a flaky crust",
+    "price": 2.99,
+    "calories": 120,
+    "type": "bread",
+    "flavor":"sour",
+    "image": "images/jessie.png"
+  },
+  {
+    "name": "Toast with Butter",
+    "description": "A slice of toast with a pat of butter",
+    "price": 1.99,
+    "calories": 64,
+    "type": "pastry",
+    "flavor":"sour",
+    "image": "images/kelly.png"
+  },
+  {
+    "name": "Tiramisu",
+    "description": "A classic tiramisu with layers of coffee-soaked ladyfingers and mascarpone cream",
+    "price": 3.99,
+    "calories": 260,
+    "type": "bread",
+    "flavor":"sweet",
+    "image": "images/lauren.png"
+  },
+  {
+    "name": "Egg Tart",
+    "description": "A flaky pastry shell filled with a sweet egg custard",
+    "price": 2.99,
+    "calories": 2333,
+    "type": "pastry",
+    "flavor":"sweet",
+    "image": "images/melissa.png"
+  },
+  {
+    "name": "Everything Bagel",
+    "description": "A toasted bagel with sesame seeds, poppy seeds, and dried onion",
+    "price": 2.99,
+    "calories": 102,
+    "type": "cake",
+    "flavor":"sweet",
+    "image": "images/miku.png"
+  },
+  {
+    "name": "Gingerbread Man",
+    "description": "A soft gingerbread cookie with a sweet icing glaze",
+    "price": 150,
+    "type": "pastry",
+    "flavor":"salty",
+    "image": "images/nick.png"
+  },
+  {
+    "name": "Cheesecake",
+    "description": "A slice of classic New York cheesecake topped with strawberry",
+    "price": 3.99,
+    "calories": 466,
+    "type": "bread",
+    "flavor":"salty",
+    "image": "images/sunny.png"
+  },
+  {
+    "name": "Cream Puff",
+    "description": "Light and airy pâte à choux filled with sweet whipped cream",
+    "price": 2.99,
+    "calories": 384,
+    "type": "cake",
+    "flavor":"sour",
+    "image": "images/tongyu.png"
+  }
+]
