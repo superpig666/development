@@ -17,7 +17,7 @@ function DisplayList(props) {
     <Row>
       {list.map((item, index) => {
         return (
-          <Col span={8} xxl={6}>
+          <Col md={8} xxl={6} sm={12} xs={24}>
             <Card
               // hoverable
               cover={<img alt={item.name} src={item.image} />}
