@@ -111,6 +111,7 @@
     "name": "Gingerbread Man",
     "description": "A soft gingerbread cookie with a sweet icing glaze",
     "price": 150,
+    "calories": 98,
     "type": "pastry",
     "flavor":"salty",
     "image": "images/nick.png"
